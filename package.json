@@ -1,0 +1,27 @@
+{
+  "name": "boilerplate-next",
+  "version": "1.0.0",
+  "description": "immersive content next project",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanDudzik/ProjectNextJS.git"
+  },
+  "author": "Jonathan Dudzik",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JonathanDudzik/ProjectNextJS/issues"
+  },
+  "homepage": "https://github.com/JonathanDudzik/ProjectNextJS#readme"
+}
